@@ -1,7 +1,7 @@
 # ScoreBattle-Syluria
 Ceci est un plugin pour le serveur Syluria
 
-## Releases :  https://github.com/ElectrozDen/ScoreBattle-Syluria/releases
+### Releases :  https://github.com/ElectrozDen/ScoreBattle-Syluria/releases
 
 C'est un jeu PvP se jouant à 12 . Le but de ce jeu est de arriver le premier à 50 points 
 Pour gagner des points il faut :
